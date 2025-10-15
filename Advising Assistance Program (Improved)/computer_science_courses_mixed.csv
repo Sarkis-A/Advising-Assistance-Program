@@ -1,0 +1,49 @@
+CS205,Database Systems,CS102
+CS242,Advanced Machine Learning,CS210,CS226
+CS226,Deep Learning,CS210
+CS224,Game Development,CS223,CS212
+CS217,Cloud Computing,CS207,CS206
+CS211,Compiler Design,CS203,CS202
+CS245,Security in Machine Learning,CS210,CS215
+CS229,Quantum Computing,CS216
+CS225,Information Retrieval,CS205,CS201
+CS206,Operating Systems,CS202
+CS219,Data Visualization,CS205
+CS240,Data Ethics,CS104
+CS223,Computer Graphics,CS201,CS202
+CS232,Augmented Reality,CS223
+CS241,Reinforcement Learning,CS210,CS226
+CS101,Introduction to Computer Science
+CS227,Data Mining,CS205,CS210
+CS239,Distributed Systems,CS206,CS207
+CS207,Computer Networks,CS202
+CS213,Mobile App Development,CS102
+CS202,Computer Organization,CS103
+CS243,Cloud Architecture,CS217
+CS233,Virtual Reality,CS223
+CS103,Computer Systems,CS101
+CS220,Numerical Methods,CS104
+CS209,Artificial Intelligence,CS201,CS203
+CS201,Algorithms,CS102,CS104
+CS215,Cybersecurity,CS202
+CS238,DevOps Practices,CS204,CS217
+CS214,Human-Computer Interaction,CS204
+CS231,Computer Vision,CS210,CS223
+CS210,Machine Learning,CS209
+CS236,Software Testing,CS204
+CS218,Big Data Analytics,CS205,CS210
+CS237,Agile Development,CS204
+CS216,Parallel Computing,CS206
+CS204,Software Engineering,CS102
+CS102,Data Structures,CS101
+CS104,Discrete Mathematics,CS101
+CS244,Big Data Systems,CS218
+CS203,Programming Languages,CS102
+CS222,Natural Language Processing,CS210
+CS221,Advanced Algorithms,CS201
+CS234,Cloud Security,CS217,CS215
+CS228,Blockchain Technology,CS207,CS215
+CS230,Ethical Hacking,CS215
+CS212,Web Development,CS102
+CS235,IoT Systems,CS202,CS207
+CS208,Theory of Computation,CS104

@@ -1,0 +1,1160 @@
+ACC101,Financial Accounting
+ACC102,Managerial Managerial Accounting
+ACC103,Auditing Auditing
+ACC104,Taxation Taxation
+ACC105,Forensic Forensic Accounting
+ACC106,Accounting Info Systems Reporting
+ACC107,Reporting AIS
+ACC108,Financial Accounting
+ACC109,Managerial Managerial Accounting
+ACC110,Auditing Auditing
+ACC201,Taxation Taxation,ACC101
+ACC202,Forensic Forensic Accounting,ACC102
+ACC203,Accounting Info Systems Reporting,ACC103
+ACC204,Reporting AIS,ACC104
+ACC205,Financial Accounting,ACC105
+ACC206,Managerial Managerial Accounting,ACC106
+ACC207,Auditing Auditing,ACC107
+ACC208,Taxation Taxation,ACC108
+ACC209,Forensic Forensic Accounting,ACC109
+ACC210,Accounting Info Systems Reporting,ACC110
+ACC301,Reporting AIS,ACC201
+ACC302,Financial Accounting,ACC202
+ACC303,Managerial Managerial Accounting,ACC203
+ACC304,Auditing Auditing,ACC204
+ACC305,Taxation Taxation,ACC205
+ACC306,Forensic Forensic Accounting,ACC206
+ACC307,Accounting Info Systems Reporting,ACC207
+ACC308,Reporting AIS,ACC208
+ACC309,Financial Accounting,ACC209
+ACC310,Managerial Managerial Accounting,ACC210
+ACC401,Auditing Auditing,ACC301
+ACC402,Taxation Taxation,ACC302
+ACC403,Forensic Forensic Accounting,ACC303
+ACC404,Accounting Info Systems Reporting,ACC304
+ACC405,Reporting AIS,ACC305
+ACC406,Financial Accounting,ACC306
+ACC407,Managerial Managerial Accounting,ACC307
+ACC408,Auditing Auditing,ACC308
+ACC409,Taxation Taxation,ACC309
+ACC410,Forensic Forensic Accounting,ACC310
+ANTH101,Cultural Anthropology
+ANTH102,Biological Archaeology
+ANTH103,Archaeology Linguistics
+ANTH104,Linguistic Medical Anthropology
+ANTH105,Medical Cultural Studies
+ANTH106,Visual Social Change
+ANTH107,Urban Urban Studies
+ANTH108,Cultural Anthropology
+ANTH109,Biological Archaeology
+ANTH110,Archaeology Linguistics
+ANTH201,Linguistic Medical Anthropology,ANTH101
+ANTH202,Medical Cultural Studies,ANTH102
+ANTH203,Visual Social Change,ANTH103
+ANTH204,Urban Urban Studies,ANTH104
+ANTH205,Cultural Anthropology,ANTH105
+ANTH206,Biological Archaeology,ANTH106
+ANTH207,Archaeology Linguistics,ANTH107
+ANTH208,Linguistic Medical Anthropology,ANTH108
+ANTH209,Medical Cultural Studies,ANTH109
+ANTH210,Visual Social Change,ANTH110
+ANTH301,Urban Urban Studies,ANTH201
+ANTH302,Cultural Anthropology,ANTH202
+ANTH303,Biological Archaeology,ANTH203
+ANTH304,Archaeology Linguistics,ANTH204
+ANTH305,Linguistic Medical Anthropology,ANTH205
+ANTH306,Medical Cultural Studies,ANTH206
+ANTH307,Visual Social Change,ANTH207
+ANTH308,Urban Urban Studies,ANTH208
+ANTH309,Cultural Anthropology,ANTH209
+ANTH310,Biological Archaeology,ANTH210
+ANTH401,Archaeology Linguistics,ANTH301
+ANTH402,Linguistic Medical Anthropology,ANTH302
+ANTH403,Medical Cultural Studies,ANTH303
+ANTH404,Visual Social Change,ANTH304
+ANTH405,Urban Urban Studies,ANTH305
+ANTH406,Cultural Anthropology,ANTH306
+ANTH407,Biological Archaeology,ANTH307
+ANTH408,Archaeology Linguistics,ANTH308
+ANTH409,Linguistic Medical Anthropology,ANTH309
+ANTH410,Medical Cultural Studies,ANTH310
+ART101,Art History Art History
+ART102,Drawing Drawing
+ART103,Painting Painting
+ART104,Sculpture Sculpture
+ART105,Photography Photography
+ART106,Printmaking Printmaking
+ART107,Digital Art Digital Art
+ART108,Art History Art History
+ART109,Drawing Drawing
+ART110,Painting Painting
+ART201,Sculpture Sculpture,ART101
+ART202,Photography Photography,ART102
+ART203,Printmaking Printmaking,ART103
+ART204,Digital Art Digital Art,ART104
+ART205,Art History Art History,ART105
+ART206,Drawing Drawing,ART106
+ART207,Painting Painting,ART107
+ART208,Sculpture Sculpture,ART108
+ART209,Photography Photography,ART109
+ART210,Printmaking Printmaking,ART110
+ART301,Digital Art Digital Art,ART201
+ART302,Art History Art History,ART202
+ART303,Drawing Drawing,ART203
+ART304,Painting Painting,ART204
+ART305,Sculpture Sculpture,ART205
+ART306,Photography Photography,ART206
+ART307,Printmaking Printmaking,ART207
+ART308,Digital Art Digital Art,ART208
+ART309,Art History Art History,ART209
+ART310,Drawing Drawing,ART210
+ART401,Painting Painting,ART301
+ART402,Sculpture Sculpture,ART302
+ART403,Photography Photography,ART303
+ART404,Printmaking Printmaking,ART304
+ART405,Digital Art Digital Art,ART305
+ART406,Art History Art History,ART306
+ART407,Drawing Drawing,ART307
+ART408,Painting Painting,ART308
+ART409,Sculpture Sculpture,ART309
+ART410,Photography Photography,ART310
+BIO101,Introductory Biology
+BIO102,Cell Genetics
+BIO103,Molecular Microbiology
+BIO104,Ecology Ecology
+BIO105,Genetics Anatomy
+BIO106,Microbiology Physiology
+BIO107,Physiology Molecular Biology
+BIO108,Introductory Biology
+BIO109,Cell Genetics
+BIO110,Molecular Microbiology
+BIO201,Ecology Ecology,BIO101
+BIO202,Genetics Anatomy,BIO102
+BIO203,Microbiology Physiology,BIO103
+BIO204,Physiology Molecular Biology,BIO104
+BIO205,Introductory Biology,BIO105
+BIO206,Cell Genetics,BIO106
+BIO207,Molecular Microbiology,BIO107
+BIO208,Ecology Ecology,BIO108
+BIO209,Genetics Anatomy,BIO109
+BIO210,Microbiology Physiology,BIO110
+BIO301,Physiology Molecular Biology,BIO201
+BIO302,Introductory Biology,BIO202
+BIO303,Cell Genetics,BIO203
+BIO304,Molecular Microbiology,BIO204
+BIO305,Ecology Ecology,BIO205
+BIO306,Genetics Anatomy,BIO206
+BIO307,Microbiology Physiology,BIO207
+BIO308,Physiology Molecular Biology,BIO208
+BIO309,Introductory Biology,BIO209
+BIO310,Cell Genetics,BIO210
+BIO401,Molecular Microbiology,BIO301
+BIO402,Ecology Ecology,BIO302
+BIO403,Genetics Anatomy,BIO303
+BIO404,Microbiology Physiology,BIO304
+BIO405,Physiology Molecular Biology,BIO305
+BIO406,Introductory Biology,BIO306
+BIO407,Cell Genetics,BIO307
+BIO408,Molecular Microbiology,BIO308
+BIO409,Ecology Ecology,BIO309
+BIO410,Genetics Anatomy,BIO310
+BUS101,Principles of Business
+BUS102,Fundamentals of Marketing
+BUS103,Advanced Management
+BUS104,Topics in Entrepreneurship
+BUS105,Applied Strategy
+BUS106,Strategic Operations
+BUS107,Global Analytics
+BUS108,Principles of Business
+BUS109,Fundamentals of Marketing
+BUS110,Advanced Management
+BUS201,Topics in Entrepreneurship,BUS101
+BUS202,Applied Strategy,BUS102
+BUS203,Strategic Operations,BUS103
+BUS204,Global Analytics,BUS104
+BUS205,Principles of Business,BUS105
+BUS206,Fundamentals of Marketing,BUS106
+BUS207,Advanced Management,BUS107
+BUS208,Topics in Entrepreneurship,BUS108
+BUS209,Applied Strategy,BUS109
+BUS210,Strategic Operations,BUS110
+BUS301,Global Analytics,BUS201
+BUS302,Principles of Business,BUS202
+BUS303,Fundamentals of Marketing,BUS203
+BUS304,Advanced Management,BUS204
+BUS305,Topics in Entrepreneurship,BUS205
+BUS306,Applied Strategy,BUS206
+BUS307,Strategic Operations,BUS207
+BUS308,Global Analytics,BUS208
+BUS309,Principles of Business,BUS209
+BUS310,Fundamentals of Marketing,BUS210
+BUS401,Advanced Management,BUS301
+BUS402,Topics in Entrepreneurship,BUS302
+BUS403,Applied Strategy,BUS303
+BUS404,Strategic Operations,BUS304
+BUS405,Global Analytics,BUS305
+BUS406,Principles of Business,BUS306
+BUS407,Fundamentals of Marketing,BUS307
+BUS408,Advanced Management,BUS308
+BUS409,Topics in Entrepreneurship,BUS309
+BUS410,Applied Strategy,BUS310
+CHEM101,General Chemistry
+CHEM102,Organic Organic Chemistry
+CHEM103,Inorganic Inorganic Chemistry
+CHEM104,Analytical Physical Chemistry
+CHEM105,Physical Analytical Chemistry
+CHEM106,Biochemistry Biochemistry
+CHEM107,Materials Materials
+CHEM108,General Chemistry
+CHEM109,Organic Organic Chemistry
+CHEM110,Inorganic Inorganic Chemistry
+CHEM201,Analytical Physical Chemistry,CHEM101
+CHEM202,Physical Analytical Chemistry,CHEM102
+CHEM203,Biochemistry Biochemistry,CHEM103
+CHEM204,Materials Materials,CHEM104
+CHEM205,General Chemistry,CHEM105
+CHEM206,Organic Organic Chemistry,CHEM106
+CHEM207,Inorganic Inorganic Chemistry,CHEM107
+CHEM208,Analytical Physical Chemistry,CHEM108
+CHEM209,Physical Analytical Chemistry,CHEM109
+CHEM210,Biochemistry Biochemistry,CHEM110
+CHEM301,Materials Materials,CHEM201
+CHEM302,General Chemistry,CHEM202
+CHEM303,Organic Organic Chemistry,CHEM203
+CHEM304,Inorganic Inorganic Chemistry,CHEM204
+CHEM305,Analytical Physical Chemistry,CHEM205
+CHEM306,Physical Analytical Chemistry,CHEM206
+CHEM307,Biochemistry Biochemistry,CHEM207
+CHEM308,Materials Materials,CHEM208
+CHEM309,General Chemistry,CHEM209
+CHEM310,Organic Organic Chemistry,CHEM210
+CHEM401,Inorganic Inorganic Chemistry,CHEM301
+CHEM402,Analytical Physical Chemistry,CHEM302
+CHEM403,Physical Analytical Chemistry,CHEM303
+CHEM404,Biochemistry Biochemistry,CHEM304
+CHEM405,Materials Materials,CHEM305
+CHEM406,General Chemistry,CHEM306
+CHEM407,Organic Organic Chemistry,CHEM307
+CHEM408,Inorganic Inorganic Chemistry,CHEM308
+CHEM409,Analytical Physical Chemistry,CHEM309
+CHEM410,Physical Analytical Chemistry,CHEM310
+COMM101,Public Speaking Public Speaking
+COMM102,Interpersonal Interpersonal Communication
+COMM103,Mass Media Mass Media
+COMM104,Journalism Journalism
+COMM105,PR Public Relations
+COMM106,Media Writing Media Writing
+COMM107,Digital Media Digital Media
+COMM108,Public Speaking Public Speaking
+COMM109,Interpersonal Interpersonal Communication
+COMM110,Mass Media Mass Media
+COMM201,Journalism Journalism,COMM101
+COMM202,PR Public Relations,COMM102
+COMM203,Media Writing Media Writing,COMM103
+COMM204,Digital Media Digital Media,COMM104
+COMM205,Public Speaking Public Speaking,COMM105
+COMM206,Interpersonal Interpersonal Communication,COMM106
+COMM207,Mass Media Mass Media,COMM107
+COMM208,Journalism Journalism,COMM108
+COMM209,PR Public Relations,COMM109
+COMM210,Media Writing Media Writing,COMM110
+COMM301,Digital Media Digital Media,COMM201
+COMM302,Public Speaking Public Speaking,COMM202
+COMM303,Interpersonal Interpersonal Communication,COMM203
+COMM304,Mass Media Mass Media,COMM204
+COMM305,Journalism Journalism,COMM205
+COMM306,PR Public Relations,COMM206
+COMM307,Media Writing Media Writing,COMM207
+COMM308,Digital Media Digital Media,COMM208
+COMM309,Public Speaking Public Speaking,COMM209
+COMM310,Interpersonal Interpersonal Communication,COMM210
+COMM401,Mass Media Mass Media,COMM301
+COMM402,Journalism Journalism,COMM302
+COMM403,PR Public Relations,COMM303
+COMM404,Media Writing Media Writing,COMM304
+COMM405,Digital Media Digital Media,COMM305
+COMM406,Public Speaking Public Speaking,COMM306
+COMM407,Interpersonal Interpersonal Communication,COMM307
+COMM408,Mass Media Mass Media,COMM308
+COMM409,Journalism Journalism,COMM309
+COMM410,PR Public Relations,COMM310
+CS101,Introduction to Computer Science
+CS102,Foundations of Programming
+CS103,Principles of Data Structures
+CS104,Applied Algorithms
+CS105,Advanced Software Engineering
+CS106,Topics in Databases
+CS107,Seminar in Operating Systems
+CS108,Introduction to Computer Science
+CS109,Foundations of Programming
+CS110,Principles of Data Structures
+CS201,Applied Algorithms,CS101
+CS202,Advanced Software Engineering,CS102
+CS203,Topics in Databases,CS103
+CS204,Seminar in Operating Systems,CS104
+CS205,Introduction to Computer Science,CS105
+CS206,Foundations of Programming,CS106
+CS207,Principles of Data Structures,CS107
+CS208,Applied Algorithms,CS108
+CS209,Advanced Software Engineering,CS109
+CS210,Topics in Databases,CS110
+CS301,Seminar in Operating Systems,CS201
+CS302,Introduction to Computer Science,CS202
+CS303,Foundations of Programming,CS203
+CS304,Principles of Data Structures,CS204
+CS305,Applied Algorithms,CS205
+CS306,Advanced Software Engineering,CS206
+CS307,Topics in Databases,CS207
+CS308,Seminar in Operating Systems,CS208
+CS309,Introduction to Computer Science,CS209
+CS310,Foundations of Programming,CS210
+CS401,Principles of Data Structures,CS301,MATH201
+CS402,Applied Algorithms,CS302,MATH201
+CS403,Advanced Software Engineering,CS303,MATH201
+CS404,Topics in Databases,CS304,MATH201
+CS405,Seminar in Operating Systems,CS305,MATH201
+CS406,Introduction to Computer Science,CS306,MATH201
+CS407,Foundations of Programming,CS307,MATH201
+CS408,Principles of Data Structures,CS308,MATH201
+CS409,Applied Algorithms,CS309,MATH201
+CS410,Advanced Software Engineering,CS310,MATH201
+ECON101,Principles of Economics
+ECON102,Micro Microeconomics
+ECON103,Macro Macroeconomics
+ECON104,Econometrics International Economics
+ECON105,International Public Economics
+ECON106,Public Development
+ECON107,Development Econometrics
+ECON108,Principles of Economics
+ECON109,Micro Microeconomics
+ECON110,Macro Macroeconomics
+ECON201,Econometrics International Economics,ECON101
+ECON202,International Public Economics,ECON102
+ECON203,Public Development,ECON103
+ECON204,Development Econometrics,ECON104
+ECON205,Principles of Economics,ECON105
+ECON206,Micro Microeconomics,ECON106
+ECON207,Macro Macroeconomics,ECON107
+ECON208,Econometrics International Economics,ECON108
+ECON209,International Public Economics,ECON109
+ECON210,Public Development,ECON110
+ECON301,Development Econometrics,ECON201
+ECON302,Principles of Economics,ECON202
+ECON303,Micro Microeconomics,ECON203
+ECON304,Macro Macroeconomics,ECON204
+ECON305,Econometrics International Economics,ECON205
+ECON306,International Public Economics,ECON206
+ECON307,Public Development,ECON207
+ECON308,Development Econometrics,ECON208
+ECON309,Principles of Economics,ECON209
+ECON310,Micro Microeconomics,ECON210
+ECON401,Macro Macroeconomics,ECON301
+ECON402,Econometrics International Economics,ECON302
+ECON403,International Public Economics,ECON303
+ECON404,Public Development,ECON304
+ECON405,Development Econometrics,ECON305
+ECON406,Principles of Economics,ECON306
+ECON407,Micro Microeconomics,ECON307
+ECON408,Macro Macroeconomics,ECON308
+ECON409,Econometrics International Economics,ECON309
+ECON410,International Public Economics,ECON310
+ENG101,Composition Composition
+ENG102,Rhetoric Rhetoric
+ENG103,Literature Literature
+ENG104,Poetry Poetry
+ENG105,Fiction Fiction
+ENG106,Nonfiction Nonfiction
+ENG107,Creative Writing Creative Writing
+ENG108,Composition Composition
+ENG109,Rhetoric Rhetoric
+ENG110,Literature Literature
+ENG201,Poetry Poetry,ENG101
+ENG202,Fiction Fiction,ENG102
+ENG203,Nonfiction Nonfiction,ENG103
+ENG204,Creative Writing Creative Writing,ENG104
+ENG205,Composition Composition,ENG105
+ENG206,Rhetoric Rhetoric,ENG106
+ENG207,Literature Literature,ENG107
+ENG208,Poetry Poetry,ENG108
+ENG209,Fiction Fiction,ENG109
+ENG210,Nonfiction Nonfiction,ENG110
+ENG301,Creative Writing Creative Writing,ENG201
+ENG302,Composition Composition,ENG202
+ENG303,Rhetoric Rhetoric,ENG203
+ENG304,Literature Literature,ENG204
+ENG305,Poetry Poetry,ENG205
+ENG306,Fiction Fiction,ENG206
+ENG307,Nonfiction Nonfiction,ENG207
+ENG308,Creative Writing Creative Writing,ENG208
+ENG309,Composition Composition,ENG209
+ENG310,Rhetoric Rhetoric,ENG210
+ENG401,Literature Literature,ENG301
+ENG402,Poetry Poetry,ENG302
+ENG403,Fiction Fiction,ENG303
+ENG404,Nonfiction Nonfiction,ENG304
+ENG405,Creative Writing Creative Writing,ENG305
+ENG406,Composition Composition,ENG306
+ENG407,Rhetoric Rhetoric,ENG307
+ENG408,Literature Literature,ENG308
+ENG409,Poetry Poetry,ENG309
+ENG410,Fiction Fiction,ENG310
+ENGR101,Introduction to Engineering
+ENGR102,Statics Statics
+ENGR103,Dynamics Dynamics
+ENGR104,Thermodynamics Thermodynamics
+ENGR105,Materials Materials
+ENGR106,Fluid Fluid Mechanics
+ENGR107,Design Design
+ENGR108,Introduction to Engineering
+ENGR109,Statics Statics
+ENGR110,Dynamics Dynamics
+ENGR201,Thermodynamics Thermodynamics,ENGR101
+ENGR202,Materials Materials,ENGR102
+ENGR203,Fluid Fluid Mechanics,ENGR103
+ENGR204,Design Design,ENGR104
+ENGR205,Introduction to Engineering,ENGR105
+ENGR206,Statics Statics,ENGR106
+ENGR207,Dynamics Dynamics,ENGR107
+ENGR208,Thermodynamics Thermodynamics,ENGR108
+ENGR209,Materials Materials,ENGR109
+ENGR210,Fluid Fluid Mechanics,ENGR110
+ENGR301,Design Design,ENGR201
+ENGR302,Introduction to Engineering,ENGR202
+ENGR303,Statics Statics,ENGR203
+ENGR304,Dynamics Dynamics,ENGR204
+ENGR305,Thermodynamics Thermodynamics,ENGR205
+ENGR306,Materials Materials,ENGR206
+ENGR307,Fluid Fluid Mechanics,ENGR207
+ENGR308,Design Design,ENGR208
+ENGR309,Introduction to Engineering,ENGR209
+ENGR310,Statics Statics,ENGR210
+ENGR401,Dynamics Dynamics,ENGR301,PHYS101
+ENGR402,Thermodynamics Thermodynamics,ENGR302,PHYS101
+ENGR403,Materials Materials,ENGR303,PHYS101
+ENGR404,Fluid Fluid Mechanics,ENGR304,PHYS101
+ENGR405,Design Design,ENGR305,PHYS101
+ENGR406,Introduction to Engineering,ENGR306,PHYS101
+ENGR407,Statics Statics,ENGR307,PHYS101
+ENGR408,Dynamics Dynamics,ENGR308,PHYS101
+ENGR409,Thermodynamics Thermodynamics,ENGR309,PHYS101
+ENGR410,Materials Materials,ENGR310,PHYS101
+ENV101,Environmental Environmental Science
+ENV102,Sustainability Sustainability
+ENV103,Conservation Conservation
+ENV104,Policy Policy
+ENV105,Impact Modeling
+ENV106,Modeling Resources
+ENV107,Resources Impact Assessment
+ENV108,Environmental Environmental Science
+ENV109,Sustainability Sustainability
+ENV110,Conservation Conservation
+ENV201,Policy Policy,ENV101
+ENV202,Impact Modeling,ENV102
+ENV203,Modeling Resources,ENV103
+ENV204,Resources Impact Assessment,ENV104
+ENV205,Environmental Environmental Science,ENV105
+ENV206,Sustainability Sustainability,ENV106
+ENV207,Conservation Conservation,ENV107
+ENV208,Policy Policy,ENV108
+ENV209,Impact Modeling,ENV109
+ENV210,Modeling Resources,ENV110
+ENV301,Resources Impact Assessment,ENV201
+ENV302,Environmental Environmental Science,ENV202
+ENV303,Sustainability Sustainability,ENV203
+ENV304,Conservation Conservation,ENV204
+ENV305,Policy Policy,ENV205
+ENV306,Impact Modeling,ENV206
+ENV307,Modeling Resources,ENV207
+ENV308,Resources Impact Assessment,ENV208
+ENV309,Environmental Environmental Science,ENV209
+ENV310,Sustainability Sustainability,ENV210
+ENV401,Conservation Conservation,ENV301
+ENV402,Policy Policy,ENV302
+ENV403,Impact Modeling,ENV303
+ENV404,Modeling Resources,ENV304
+ENV405,Resources Impact Assessment,ENV305
+ENV406,Environmental Environmental Science,ENV306
+ENV407,Sustainability Sustainability,ENV307
+ENV408,Conservation Conservation,ENV308
+ENV409,Policy Policy,ENV309
+ENV410,Impact Modeling,ENV310
+FIN101,Corporate Finance
+FIN102,Investments Investments
+FIN103,Financial Corporate Finance
+FIN104,Derivatives Derivatives
+FIN105,Risk Risk Management
+FIN106,International International Finance
+FIN107,Markets Markets
+FIN108,Corporate Finance
+FIN109,Investments Investments
+FIN110,Financial Corporate Finance
+FIN201,Derivatives Derivatives,FIN101
+FIN202,Risk Risk Management,FIN102
+FIN203,International International Finance,FIN103
+FIN204,Markets Markets,FIN104
+FIN205,Corporate Finance,FIN105
+FIN206,Investments Investments,FIN106
+FIN207,Financial Corporate Finance,FIN107
+FIN208,Derivatives Derivatives,FIN108
+FIN209,Risk Risk Management,FIN109
+FIN210,International International Finance,FIN110
+FIN301,Markets Markets,FIN201
+FIN302,Corporate Finance,FIN202
+FIN303,Investments Investments,FIN203
+FIN304,Financial Corporate Finance,FIN204
+FIN305,Derivatives Derivatives,FIN205
+FIN306,Risk Risk Management,FIN206
+FIN307,International International Finance,FIN207
+FIN308,Markets Markets,FIN208
+FIN309,Corporate Finance,FIN209
+FIN310,Investments Investments,FIN210
+FIN401,Financial Corporate Finance,FIN301
+FIN402,Derivatives Derivatives,FIN302
+FIN403,Risk Risk Management,FIN303
+FIN404,International International Finance,FIN304
+FIN405,Markets Markets,FIN305
+FIN406,Corporate Finance,FIN306
+FIN407,Investments Investments,FIN307
+FIN408,Financial Corporate Finance,FIN308
+FIN409,Derivatives Derivatives,FIN309
+FIN410,Risk Risk Management,FIN310
+FREN101,Elementary French
+FREN102,Intermediate Conversation
+FREN103,Advanced Composition
+FREN104,Conversation Culture
+FREN105,Composition Literature
+FREN106,Culture Advanced Grammar
+FREN107,Literature Translation
+FREN108,Elementary French
+FREN109,Intermediate Conversation
+FREN110,Advanced Composition
+FREN201,Conversation Culture,FREN101
+FREN202,Composition Literature,FREN102
+FREN203,Culture Advanced Grammar,FREN103
+FREN204,Literature Translation,FREN104
+FREN205,Elementary French,FREN105
+FREN206,Intermediate Conversation,FREN106
+FREN207,Advanced Composition,FREN107
+FREN208,Conversation Culture,FREN108
+FREN209,Composition Literature,FREN109
+FREN210,Culture Advanced Grammar,FREN110
+FREN301,Literature Translation,FREN201
+FREN302,Elementary French,FREN202
+FREN303,Intermediate Conversation,FREN203
+FREN304,Advanced Composition,FREN204
+FREN305,Conversation Culture,FREN205
+FREN306,Composition Literature,FREN206
+FREN307,Culture Advanced Grammar,FREN207
+FREN308,Literature Translation,FREN208
+FREN309,Elementary French,FREN209
+FREN310,Intermediate Conversation,FREN210
+FREN401,Advanced Composition,FREN301
+FREN402,Conversation Culture,FREN302
+FREN403,Composition Literature,FREN303
+FREN404,Culture Advanced Grammar,FREN304
+FREN405,Literature Translation,FREN305
+FREN406,Elementary French,FREN306
+FREN407,Intermediate Conversation,FREN307
+FREN408,Advanced Composition,FREN308
+FREN409,Conversation Culture,FREN309
+FREN410,Composition Literature,FREN310
+GEO101,Physical Geography
+GEO102,Human GIS
+GEO103,GIS Cartography
+GEO104,Cartography Climatology
+GEO105,Climatology Geomorphology
+GEO106,Geomorphology Remote Sensing
+GEO107,Remote Sensing Human Geography
+GEO108,Physical Geography
+GEO109,Human GIS
+GEO110,GIS Cartography
+GEO201,Cartography Climatology,GEO101
+GEO202,Climatology Geomorphology,GEO102
+GEO203,Geomorphology Remote Sensing,GEO103
+GEO204,Remote Sensing Human Geography,GEO104
+GEO205,Physical Geography,GEO105
+GEO206,Human GIS,GEO106
+GEO207,GIS Cartography,GEO107
+GEO208,Cartography Climatology,GEO108
+GEO209,Climatology Geomorphology,GEO109
+GEO210,Geomorphology Remote Sensing,GEO110
+GEO301,Remote Sensing Human Geography,GEO201
+GEO302,Physical Geography,GEO202
+GEO303,Human GIS,GEO203
+GEO304,GIS Cartography,GEO204
+GEO305,Cartography Climatology,GEO205
+GEO306,Climatology Geomorphology,GEO206
+GEO307,Geomorphology Remote Sensing,GEO207
+GEO308,Remote Sensing Human Geography,GEO208
+GEO309,Physical Geography,GEO209
+GEO310,Human GIS,GEO210
+GEO401,GIS Cartography,GEO301
+GEO402,Cartography Climatology,GEO302
+GEO403,Climatology Geomorphology,GEO303
+GEO404,Geomorphology Remote Sensing,GEO304
+GEO405,Remote Sensing Human Geography,GEO305
+GEO406,Physical Geography,GEO306
+GEO407,Human GIS,GEO307
+GEO408,GIS Cartography,GEO308
+GEO409,Cartography Climatology,GEO309
+GEO410,Climatology Geomorphology,GEO310
+HIST101,World World History
+HIST102,American American History
+HIST103,European European History
+HIST104,Asian Ancient Civilizations
+HIST105,Ancient Modern History
+HIST106,Modern Historiography
+HIST107,Medieval Global History
+HIST108,World World History
+HIST109,American American History
+HIST110,European European History
+HIST201,Asian Ancient Civilizations,HIST101
+HIST202,Ancient Modern History,HIST102
+HIST203,Modern Historiography,HIST103
+HIST204,Medieval Global History,HIST104
+HIST205,World World History,HIST105
+HIST206,American American History,HIST106
+HIST207,European European History,HIST107
+HIST208,Asian Ancient Civilizations,HIST108
+HIST209,Ancient Modern History,HIST109
+HIST210,Modern Historiography,HIST110
+HIST301,Medieval Global History,HIST201
+HIST302,World World History,HIST202
+HIST303,American American History,HIST203
+HIST304,European European History,HIST204
+HIST305,Asian Ancient Civilizations,HIST205
+HIST306,Ancient Modern History,HIST206
+HIST307,Modern Historiography,HIST207
+HIST308,Medieval Global History,HIST208
+HIST309,World World History,HIST209
+HIST310,American American History,HIST210
+HIST401,European European History,HIST301
+HIST402,Asian Ancient Civilizations,HIST302
+HIST403,Ancient Modern History,HIST303
+HIST404,Modern Historiography,HIST304
+HIST405,Medieval Global History,HIST305
+HIST406,World World History,HIST306
+HIST407,American American History,HIST307
+HIST408,European European History,HIST308
+HIST409,Asian Ancient Civilizations,HIST309
+HIST410,Ancient Modern History,HIST310
+IT101,Information Information Technology
+IT102,Systems Networking
+IT103,Networking Security
+IT104,Security Cloud
+IT105,Cloud Web Development
+IT106,Web Mobile Development
+IT107,Mobile Systems Administration
+IT108,Information Information Technology
+IT109,Systems Networking
+IT110,Networking Security
+IT201,Security Cloud,IT101
+IT202,Cloud Web Development,IT102
+IT203,Web Mobile Development,IT103
+IT204,Mobile Systems Administration,IT104
+IT205,Information Information Technology,IT105
+IT206,Systems Networking,IT106
+IT207,Networking Security,IT107
+IT208,Security Cloud,IT108
+IT209,Cloud Web Development,IT109
+IT210,Web Mobile Development,IT110
+IT301,Mobile Systems Administration,IT201
+IT302,Information Information Technology,IT202
+IT303,Systems Networking,IT203
+IT304,Networking Security,IT204
+IT305,Security Cloud,IT205
+IT306,Cloud Web Development,IT206
+IT307,Web Mobile Development,IT207
+IT308,Mobile Systems Administration,IT208
+IT309,Information Information Technology,IT209
+IT310,Systems Networking,IT210
+IT401,Networking Security,IT301
+IT402,Security Cloud,IT302
+IT403,Cloud Web Development,IT303
+IT404,Web Mobile Development,IT304
+IT405,Mobile Systems Administration,IT305
+IT406,Information Information Technology,IT306
+IT407,Systems Networking,IT307
+IT408,Networking Security,IT308
+IT409,Security Cloud,IT309
+IT410,Cloud Web Development,IT310
+MATH101,College Algebra
+MATH102,Applied Calculus
+MATH103,Advanced Discrete Mathematics
+MATH104,Discrete Linear Algebra
+MATH105,Computational Probability
+MATH106,Numerical Numerical Methods
+MATH107,Foundations of Number Theory
+MATH108,College Algebra
+MATH109,Applied Calculus
+MATH110,Advanced Discrete Mathematics
+MATH201,Discrete Linear Algebra,MATH101
+MATH202,Computational Probability,MATH102
+MATH203,Numerical Numerical Methods,MATH103
+MATH204,Foundations of Number Theory,MATH104
+MATH205,College Algebra,MATH105
+MATH206,Applied Calculus,MATH106
+MATH207,Advanced Discrete Mathematics,MATH107
+MATH208,Discrete Linear Algebra,MATH108
+MATH209,Computational Probability,MATH109
+MATH210,Numerical Numerical Methods,MATH110
+MATH301,Foundations of Number Theory,MATH201
+MATH302,College Algebra,MATH202
+MATH303,Applied Calculus,MATH203
+MATH304,Advanced Discrete Mathematics,MATH204
+MATH305,Discrete Linear Algebra,MATH205
+MATH306,Computational Probability,MATH206
+MATH307,Numerical Numerical Methods,MATH207
+MATH308,Foundations of Number Theory,MATH208
+MATH309,College Algebra,MATH209
+MATH310,Applied Calculus,MATH210
+MATH401,Advanced Discrete Mathematics,MATH301
+MATH402,Discrete Linear Algebra,MATH302
+MATH403,Computational Probability,MATH303
+MATH404,Numerical Numerical Methods,MATH304
+MATH405,Foundations of Number Theory,MATH305
+MATH406,College Algebra,MATH306
+MATH407,Applied Calculus,MATH307
+MATH408,Advanced Discrete Mathematics,MATH308
+MATH409,Discrete Linear Algebra,MATH309
+MATH410,Computational Probability,MATH310
+MIS101,Management Information Systems
+MIS102,Information Systems Analytics
+MIS103,Analytics ERP Systems
+MIS104,ERP Decision Support
+MIS105,Decision Support Business Intelligence
+MIS106,Business Intelligence Data Management
+MIS107,Data Project Management
+MIS108,Management Information Systems
+MIS109,Information Systems Analytics
+MIS110,Analytics ERP Systems
+MIS201,ERP Decision Support,MIS101
+MIS202,Decision Support Business Intelligence,MIS102
+MIS203,Business Intelligence Data Management,MIS103
+MIS204,Data Project Management,MIS104
+MIS205,Management Information Systems,MIS105
+MIS206,Information Systems Analytics,MIS106
+MIS207,Analytics ERP Systems,MIS107
+MIS208,ERP Decision Support,MIS108
+MIS209,Decision Support Business Intelligence,MIS109
+MIS210,Business Intelligence Data Management,MIS110
+MIS301,Data Project Management,MIS201
+MIS302,Management Information Systems,MIS202
+MIS303,Information Systems Analytics,MIS203
+MIS304,Analytics ERP Systems,MIS204
+MIS305,ERP Decision Support,MIS205
+MIS306,Decision Support Business Intelligence,MIS206
+MIS307,Business Intelligence Data Management,MIS207
+MIS308,Data Project Management,MIS208
+MIS309,Management Information Systems,MIS209
+MIS310,Information Systems Analytics,MIS210
+MIS401,Analytics ERP Systems,MIS301
+MIS402,ERP Decision Support,MIS302
+MIS403,Decision Support Business Intelligence,MIS303
+MIS404,Business Intelligence Data Management,MIS304
+MIS405,Data Project Management,MIS305
+MIS406,Management Information Systems,MIS306
+MIS407,Information Systems Analytics,MIS307
+MIS408,Analytics ERP Systems,MIS308
+MIS409,ERP Decision Support,MIS309
+MIS410,Decision Support Business Intelligence,MIS310
+MUS101,Music Theory Music Theory
+MUS102,Aural Skills Aural Skills
+MUS103,Composition Composition
+MUS104,Performance Performance
+MUS105,History Music History
+MUS106,Ensemble Ensemble
+MUS107,Conducting Conducting
+MUS108,Music Theory Music Theory
+MUS109,Aural Skills Aural Skills
+MUS110,Composition Composition
+MUS201,Performance Performance,MUS101
+MUS202,History Music History,MUS102
+MUS203,Ensemble Ensemble,MUS103
+MUS204,Conducting Conducting,MUS104
+MUS205,Music Theory Music Theory,MUS105
+MUS206,Aural Skills Aural Skills,MUS106
+MUS207,Composition Composition,MUS107
+MUS208,Performance Performance,MUS108
+MUS209,History Music History,MUS109
+MUS210,Ensemble Ensemble,MUS110
+MUS301,Conducting Conducting,MUS201
+MUS302,Music Theory Music Theory,MUS202
+MUS303,Aural Skills Aural Skills,MUS203
+MUS304,Composition Composition,MUS204
+MUS305,Performance Performance,MUS205
+MUS306,History Music History,MUS206
+MUS307,Ensemble Ensemble,MUS207
+MUS308,Conducting Conducting,MUS208
+MUS309,Music Theory Music Theory,MUS209
+MUS310,Aural Skills Aural Skills,MUS210
+MUS401,Composition Composition,MUS301
+MUS402,Performance Performance,MUS302
+MUS403,History Music History,MUS303
+MUS404,Ensemble Ensemble,MUS304
+MUS405,Conducting Conducting,MUS305
+MUS406,Music Theory Music Theory,MUS306
+MUS407,Aural Skills Aural Skills,MUS307
+MUS408,Composition Composition,MUS308
+MUS409,Performance Performance,MUS309
+MUS410,History Music History,MUS310
+NUR101,Foundations of Nursing
+NUR102,Medical-Surgical Clinical Practice
+NUR103,Pediatric Pharmacology
+NUR104,OB/GYN Pediatrics
+NUR105,Psychiatric OB/GYN
+NUR106,Pharmacology Psychiatric Care
+NUR107,Leadership Leadership
+NUR108,Foundations of Nursing
+NUR109,Medical-Surgical Clinical Practice
+NUR110,Pediatric Pharmacology
+NUR201,OB/GYN Pediatrics,NUR101
+NUR202,Psychiatric OB/GYN,NUR102
+NUR203,Pharmacology Psychiatric Care,NUR103
+NUR204,Leadership Leadership,NUR104
+NUR205,Foundations of Nursing,NUR105
+NUR206,Medical-Surgical Clinical Practice,NUR106
+NUR207,Pediatric Pharmacology,NUR107
+NUR208,OB/GYN Pediatrics,NUR108
+NUR209,Psychiatric OB/GYN,NUR109
+NUR210,Pharmacology Psychiatric Care,NUR110
+NUR301,Leadership Leadership,NUR201
+NUR302,Foundations of Nursing,NUR202
+NUR303,Medical-Surgical Clinical Practice,NUR203
+NUR304,Pediatric Pharmacology,NUR204
+NUR305,OB/GYN Pediatrics,NUR205
+NUR306,Psychiatric OB/GYN,NUR206
+NUR307,Pharmacology Psychiatric Care,NUR207
+NUR308,Leadership Leadership,NUR208
+NUR309,Foundations of Nursing,NUR209
+NUR310,Medical-Surgical Clinical Practice,NUR210
+NUR401,Pediatric Pharmacology,NUR301
+NUR402,OB/GYN Pediatrics,NUR302
+NUR403,Psychiatric OB/GYN,NUR303
+NUR404,Pharmacology Psychiatric Care,NUR304
+NUR405,Leadership Leadership,NUR305
+NUR406,Foundations of Nursing,NUR306
+NUR407,Medical-Surgical Clinical Practice,NUR307
+NUR408,Pediatric Pharmacology,NUR308
+NUR409,OB/GYN Pediatrics,NUR309
+NUR410,Psychiatric OB/GYN,NUR310
+PHIL101,Introduction to Philosophy
+PHIL102,Logic Logic
+PHIL103,Ethics Ethics
+PHIL104,Metaphysics Metaphysics
+PHIL105,Epistemology Epistemology
+PHIL106,Aesthetics Aesthetics
+PHIL107,Political Philosophy Political Philosophy
+PHIL108,Introduction to Philosophy
+PHIL109,Logic Logic
+PHIL110,Ethics Ethics
+PHIL201,Metaphysics Metaphysics,PHIL101
+PHIL202,Epistemology Epistemology,PHIL102
+PHIL203,Aesthetics Aesthetics,PHIL103
+PHIL204,Political Philosophy Political Philosophy,PHIL104
+PHIL205,Introduction to Philosophy,PHIL105
+PHIL206,Logic Logic,PHIL106
+PHIL207,Ethics Ethics,PHIL107
+PHIL208,Metaphysics Metaphysics,PHIL108
+PHIL209,Epistemology Epistemology,PHIL109
+PHIL210,Aesthetics Aesthetics,PHIL110
+PHIL301,Political Philosophy Political Philosophy,PHIL201
+PHIL302,Introduction to Philosophy,PHIL202
+PHIL303,Logic Logic,PHIL203
+PHIL304,Ethics Ethics,PHIL204
+PHIL305,Metaphysics Metaphysics,PHIL205
+PHIL306,Epistemology Epistemology,PHIL206
+PHIL307,Aesthetics Aesthetics,PHIL207
+PHIL308,Political Philosophy Political Philosophy,PHIL208
+PHIL309,Introduction to Philosophy,PHIL209
+PHIL310,Logic Logic,PHIL210
+PHIL401,Ethics Ethics,PHIL301
+PHIL402,Metaphysics Metaphysics,PHIL302
+PHIL403,Epistemology Epistemology,PHIL303
+PHIL404,Aesthetics Aesthetics,PHIL304
+PHIL405,Political Philosophy Political Philosophy,PHIL305
+PHIL406,Introduction to Philosophy,PHIL306
+PHIL407,Logic Logic,PHIL307
+PHIL408,Ethics Ethics,PHIL308
+PHIL409,Metaphysics Metaphysics,PHIL309
+PHIL410,Epistemology Epistemology,PHIL310
+PHYS101,General Physics
+PHYS102,Modern Mechanics
+PHYS103,Experimental Electricity & Magnetism
+PHYS104,Applied Quantum
+PHYS105,Advanced Optics
+PHYS106,Computational Thermodynamics
+PHYS107,Theoretical Astrophysics
+PHYS108,General Physics
+PHYS109,Modern Mechanics
+PHYS110,Experimental Electricity & Magnetism
+PHYS201,Applied Quantum,PHYS101
+PHYS202,Advanced Optics,PHYS102
+PHYS203,Computational Thermodynamics,PHYS103
+PHYS204,Theoretical Astrophysics,PHYS104
+PHYS205,General Physics,PHYS105
+PHYS206,Modern Mechanics,PHYS106
+PHYS207,Experimental Electricity & Magnetism,PHYS107
+PHYS208,Applied Quantum,PHYS108
+PHYS209,Advanced Optics,PHYS109
+PHYS210,Computational Thermodynamics,PHYS110
+PHYS301,Theoretical Astrophysics,PHYS201
+PHYS302,General Physics,PHYS202
+PHYS303,Modern Mechanics,PHYS203
+PHYS304,Experimental Electricity & Magnetism,PHYS204
+PHYS305,Applied Quantum,PHYS205
+PHYS306,Advanced Optics,PHYS206
+PHYS307,Computational Thermodynamics,PHYS207
+PHYS308,Theoretical Astrophysics,PHYS208
+PHYS309,General Physics,PHYS209
+PHYS310,Modern Mechanics,PHYS210
+PHYS401,Experimental Electricity & Magnetism,PHYS301
+PHYS402,Applied Quantum,PHYS302
+PHYS403,Advanced Optics,PHYS303
+PHYS404,Computational Thermodynamics,PHYS304
+PHYS405,Theoretical Astrophysics,PHYS305
+PHYS406,General Physics,PHYS306
+PHYS407,Modern Mechanics,PHYS307
+PHYS408,Experimental Electricity & Magnetism,PHYS308
+PHYS409,Applied Quantum,PHYS309
+PHYS410,Advanced Optics,PHYS310
+POLS101,Introduction to Political Science
+POLS102,Comparative Comparative Politics
+POLS103,International International Relations
+POLS104,American American Politics
+POLS105,Political Theory Public Policy
+POLS106,Public Policy Political Theory
+POLS107,Methods Methods
+POLS108,Introduction to Political Science
+POLS109,Comparative Comparative Politics
+POLS110,International International Relations
+POLS201,American American Politics,POLS101
+POLS202,Political Theory Public Policy,POLS102
+POLS203,Public Policy Political Theory,POLS103
+POLS204,Methods Methods,POLS104
+POLS205,Introduction to Political Science,POLS105
+POLS206,Comparative Comparative Politics,POLS106
+POLS207,International International Relations,POLS107
+POLS208,American American Politics,POLS108
+POLS209,Political Theory Public Policy,POLS109
+POLS210,Public Policy Political Theory,POLS110
+POLS301,Methods Methods,POLS201
+POLS302,Introduction to Political Science,POLS202
+POLS303,Comparative Comparative Politics,POLS203
+POLS304,International International Relations,POLS204
+POLS305,American American Politics,POLS205
+POLS306,Political Theory Public Policy,POLS206
+POLS307,Public Policy Political Theory,POLS207
+POLS308,Methods Methods,POLS208
+POLS309,Introduction to Political Science,POLS209
+POLS310,Comparative Comparative Politics,POLS210
+POLS401,International International Relations,POLS301
+POLS402,American American Politics,POLS302
+POLS403,Political Theory Public Policy,POLS303
+POLS404,Public Policy Political Theory,POLS304
+POLS405,Methods Methods,POLS305
+POLS406,Introduction to Political Science,POLS306
+POLS407,Comparative Comparative Politics,POLS307
+POLS408,International International Relations,POLS308
+POLS409,American American Politics,POLS309
+POLS410,Political Theory Public Policy,POLS310
+PSY101,Introduction to Psychology
+PSY102,Cognitive Cognition
+PSY103,Social Development
+PSY104,Developmental Abnormal Psychology
+PSY105,Abnormal Neuroscience
+PSY106,Biopsychology Social Behavior
+PSY107,Personality Research Methods
+PSY108,Introduction to Psychology
+PSY109,Cognitive Cognition
+PSY110,Social Development
+PSY201,Developmental Abnormal Psychology,PSY101
+PSY202,Abnormal Neuroscience,PSY102
+PSY203,Biopsychology Social Behavior,PSY103
+PSY204,Personality Research Methods,PSY104
+PSY205,Introduction to Psychology,PSY105
+PSY206,Cognitive Cognition,PSY106
+PSY207,Social Development,PSY107
+PSY208,Developmental Abnormal Psychology,PSY108
+PSY209,Abnormal Neuroscience,PSY109
+PSY210,Biopsychology Social Behavior,PSY110
+PSY301,Personality Research Methods,PSY201
+PSY302,Introduction to Psychology,PSY202
+PSY303,Cognitive Cognition,PSY203
+PSY304,Social Development,PSY204
+PSY305,Developmental Abnormal Psychology,PSY205
+PSY306,Abnormal Neuroscience,PSY206
+PSY307,Biopsychology Social Behavior,PSY207
+PSY308,Personality Research Methods,PSY208
+PSY309,Introduction to Psychology,PSY209
+PSY310,Cognitive Cognition,PSY210
+PSY401,Social Development,PSY301
+PSY402,Developmental Abnormal Psychology,PSY302
+PSY403,Abnormal Neuroscience,PSY303
+PSY404,Biopsychology Social Behavior,PSY304
+PSY405,Personality Research Methods,PSY305
+PSY406,Introduction to Psychology,PSY306
+PSY407,Cognitive Cognition,PSY307
+PSY408,Social Development,PSY308
+PSY409,Developmental Abnormal Psychology,PSY309
+PSY410,Abnormal Neuroscience,PSY310
+SOC101,Introduction to Sociology
+SOC102,Social Social Theory
+SOC103,Cultural Inequality
+SOC104,Urban Institutions
+SOC105,Rural Globalization
+SOC106,Global Community
+SOC107,Inequality Methods
+SOC108,Introduction to Sociology
+SOC109,Social Social Theory
+SOC110,Cultural Inequality
+SOC201,Urban Institutions,SOC101
+SOC202,Rural Globalization,SOC102
+SOC203,Global Community,SOC103
+SOC204,Inequality Methods,SOC104
+SOC205,Introduction to Sociology,SOC105
+SOC206,Social Social Theory,SOC106
+SOC207,Cultural Inequality,SOC107
+SOC208,Urban Institutions,SOC108
+SOC209,Rural Globalization,SOC109
+SOC210,Global Community,SOC110
+SOC301,Inequality Methods,SOC201
+SOC302,Introduction to Sociology,SOC202
+SOC303,Social Social Theory,SOC203
+SOC304,Cultural Inequality,SOC204
+SOC305,Urban Institutions,SOC205
+SOC306,Rural Globalization,SOC206
+SOC307,Global Community,SOC207
+SOC308,Inequality Methods,SOC208
+SOC309,Introduction to Sociology,SOC209
+SOC310,Social Social Theory,SOC210
+SOC401,Cultural Inequality,SOC301
+SOC402,Urban Institutions,SOC302
+SOC403,Rural Globalization,SOC303
+SOC404,Global Community,SOC304
+SOC405,Inequality Methods,SOC305
+SOC406,Introduction to Sociology,SOC306
+SOC407,Social Social Theory,SOC307
+SOC408,Cultural Inequality,SOC308
+SOC409,Urban Institutions,SOC309
+SOC410,Rural Globalization,SOC310
+SPAN101,Elementary Spanish
+SPAN102,Intermediate Conversation
+SPAN103,Advanced Composition
+SPAN104,Conversation Culture
+SPAN105,Composition Literature
+SPAN106,Culture Advanced Grammar
+SPAN107,Literature Translation
+SPAN108,Elementary Spanish
+SPAN109,Intermediate Conversation
+SPAN110,Advanced Composition
+SPAN201,Conversation Culture,SPAN101
+SPAN202,Composition Literature,SPAN102
+SPAN203,Culture Advanced Grammar,SPAN103
+SPAN204,Literature Translation,SPAN104
+SPAN205,Elementary Spanish,SPAN105
+SPAN206,Intermediate Conversation,SPAN106
+SPAN207,Advanced Composition,SPAN107
+SPAN208,Conversation Culture,SPAN108
+SPAN209,Composition Literature,SPAN109
+SPAN210,Culture Advanced Grammar,SPAN110
+SPAN301,Literature Translation,SPAN201
+SPAN302,Elementary Spanish,SPAN202
+SPAN303,Intermediate Conversation,SPAN203
+SPAN304,Advanced Composition,SPAN204
+SPAN305,Conversation Culture,SPAN205
+SPAN306,Composition Literature,SPAN206
+SPAN307,Culture Advanced Grammar,SPAN207
+SPAN308,Literature Translation,SPAN208
+SPAN309,Elementary Spanish,SPAN209
+SPAN310,Intermediate Conversation,SPAN210
+SPAN401,Advanced Composition,SPAN301
+SPAN402,Conversation Culture,SPAN302
+SPAN403,Composition Literature,SPAN303
+SPAN404,Culture Advanced Grammar,SPAN304
+SPAN405,Literature Translation,SPAN305
+SPAN406,Elementary Spanish,SPAN306
+SPAN407,Intermediate Conversation,SPAN307
+SPAN408,Advanced Composition,SPAN308
+SPAN409,Conversation Culture,SPAN309
+SPAN410,Composition Literature,SPAN310
+STAT101,Introduction to Statistics
+STAT102,Applied Applied Statistics
+STAT103,Mathematical Mathematical Statistics
+STAT104,Bayesian Bayesian Methods
+STAT105,Regression Regression
+STAT106,Time Series Time Series
+STAT107,Design of Experiments Experiment Design
+STAT108,Introduction to Statistics
+STAT109,Applied Applied Statistics
+STAT110,Mathematical Mathematical Statistics
+STAT201,Bayesian Bayesian Methods,STAT101
+STAT202,Regression Regression,STAT102
+STAT203,Time Series Time Series,STAT103
+STAT204,Design of Experiments Experiment Design,STAT104
+STAT205,Introduction to Statistics,STAT105
+STAT206,Applied Applied Statistics,STAT106
+STAT207,Mathematical Mathematical Statistics,STAT107
+STAT208,Bayesian Bayesian Methods,STAT108
+STAT209,Regression Regression,STAT109
+STAT210,Time Series Time Series,STAT110
+STAT301,Design of Experiments Experiment Design,STAT201
+STAT302,Introduction to Statistics,STAT202
+STAT303,Applied Applied Statistics,STAT203
+STAT304,Mathematical Mathematical Statistics,STAT204
+STAT305,Bayesian Bayesian Methods,STAT205
+STAT306,Regression Regression,STAT206
+STAT307,Time Series Time Series,STAT207
+STAT308,Design of Experiments Experiment Design,STAT208
+STAT309,Introduction to Statistics,STAT209
+STAT310,Applied Applied Statistics,STAT210
+STAT401,Mathematical Mathematical Statistics,STAT301
+STAT402,Bayesian Bayesian Methods,STAT302
+STAT403,Regression Regression,STAT303
+STAT404,Time Series Time Series,STAT304
+STAT405,Design of Experiments Experiment Design,STAT305
+STAT406,Introduction to Statistics,STAT306
+STAT407,Applied Applied Statistics,STAT307
+STAT408,Mathematical Mathematical Statistics,STAT308
+STAT409,Bayesian Bayesian Methods,STAT309
+STAT410,Regression Regression,STAT310
+THEA101,Acting Acting
+THEA102,Directing Directing
+THEA103,Stagecraft Stagecraft
+THEA104,Theatre History Theatre History
+THEA105,Playwriting Playwriting
+THEA106,Design Design
+THEA107,Production Production
+THEA108,Acting Acting
+THEA109,Directing Directing
+THEA110,Stagecraft Stagecraft
+THEA201,Theatre History Theatre History,THEA101
+THEA202,Playwriting Playwriting,THEA102
+THEA203,Design Design,THEA103
+THEA204,Production Production,THEA104
+THEA205,Acting Acting,THEA105
+THEA206,Directing Directing,THEA106
+THEA207,Stagecraft Stagecraft,THEA107
+THEA208,Theatre History Theatre History,THEA108
+THEA209,Playwriting Playwriting,THEA109
+THEA210,Design Design,THEA110
+THEA301,Production Production,THEA201
+THEA302,Acting Acting,THEA202
+THEA303,Directing Directing,THEA203
+THEA304,Stagecraft Stagecraft,THEA204
+THEA305,Theatre History Theatre History,THEA205
+THEA306,Playwriting Playwriting,THEA206
+THEA307,Design Design,THEA207
+THEA308,Production Production,THEA208
+THEA309,Acting Acting,THEA209
+THEA310,Directing Directing,THEA210
+THEA401,Stagecraft Stagecraft,THEA301
+THEA402,Theatre History Theatre History,THEA302
+THEA403,Playwriting Playwriting,THEA303
+THEA404,Design Design,THEA304
+THEA405,Production Production,THEA305
+THEA406,Acting Acting,THEA306
+THEA407,Directing Directing,THEA307
+THEA408,Stagecraft Stagecraft,THEA308
+THEA409,Theatre History Theatre History,THEA309
+THEA410,Playwriting Playwriting,THEA310
